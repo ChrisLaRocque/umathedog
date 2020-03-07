@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("Image from iOS.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 100vh;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.row {
+  margin-top: 35vh;
+}
+
+.row h1 {
+  font-size: 10vh;
+}
+
+.row h3 {
+  font-size: 7vh;
+}
+
+.row .body {
+  font-size: 3vh;
+}
+/*# sourceMappingURL=main.css.map */
